@@ -6,7 +6,8 @@ platform :ios, '12.0'
 
 require 'json'
 podfile_properties = JSON.parse(File.read('./Podfile.properties.json')) rescue {}
-
+pod 'Plaid', '~> 2.3.2'
+(cd ios && pod install)
 target 'Budgit' do
   use_expo_modules!
   config = use_native_modules!
