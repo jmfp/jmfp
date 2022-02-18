@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jessie and I am a junior in Computer Science at Colorado Technical University. I'm finally coming around to join GitHub actively in hope to increase my networking and communication skills, along with my engineering skills of course! Other cool stuff about me is I collect retro video games, comic books, I make Hip-Hop, and am a huge fan of Spider-Man 🕷️!
+My name is Jessie and I am a junior in Computer Science at Colorado Technical University. I'm finally coming around to join GitHub actively in hope to increase my networking and communication skills, along with my engineering skills of course! Other cool stuff about me is I collect retro video games, comic books, and am a huge fan of Spider-Man 🕷️!
 
 <!--
 **jmfp/jmfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
