@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Budgit",
+    "slug": "Budgit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
