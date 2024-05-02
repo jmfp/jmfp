@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jessie and I am a senior in Computer Science at Colorado Technical University. I'm finally coming around to join GitHub actively in hope to increase my networking and communication skills, along with my engineering skills of course!
+My name is Jessie and I have a bachelors degree in Computer Science at Colorado Technical University. I'm currently searching an entry level frontend engineering job in web development. Here are a few of my portfolio projects for you to check out. Thanks for yoour time!
 
 <!--
 **jmfp/jmfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
