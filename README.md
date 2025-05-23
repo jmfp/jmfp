@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Jessie and I have a bachelors degree in Computer Science at Colorado Technical University. I'm currently searching an entry level frontend engineering job in web development. Here are a few of my portfolio projects for you to check out. Thanks for yoour time!
+My name is Jessie and I'm a software engineer! 
 
 <!--
 **jmfp/jmfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
